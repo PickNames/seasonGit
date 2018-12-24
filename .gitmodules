@@ -1,0 +1,3 @@
+[submodule "myGitBare"]
+	path = myGitBare
+	url = git@github.com:PickNames/git_bare.git
